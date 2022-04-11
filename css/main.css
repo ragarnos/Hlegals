@@ -1924,6 +1924,7 @@ table {
 .publication-entry-wrapper .img-ad-personalization-window img {
   margin: 0 auto;
   width: 100%;
+  max-width: 640px;
 }
 .publication-entry-wrapper .par-min {
   font-size: 16px;
