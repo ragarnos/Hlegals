@@ -1,10 +1,3 @@
-"use strict";
-
-console.log('global');
-"use strict";
-
-console.log('ma');
-"use strict";
 
 $(function () {
   tabInit();
@@ -76,4 +69,3 @@ document.querySelector('.load-news').addEventListener('click', function () {
     button.remove();
   });
 }, false);
-//# sourceMappingURL=main.js.map

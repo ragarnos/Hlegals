@@ -537,7 +537,7 @@ table {
   .header .header-inner .header-right-wrapper .overlay-wrapper .nav-wrapper.active {
     display: block;
     position: relative;
-    background: #fff;
+    background: #6f4060;
     width: 100%;
     border-radius: 12px 12px 0px 0px;
     padding: 65px 20px 20px 20px;
@@ -550,7 +550,6 @@ table {
   .header .header-inner .header-right-wrapper .overlay-wrapper .nav-wrapper.active .nav .link {
     color: #24A3FF;
     background: #F5F5FA;
-    border-radius: 12px;
     margin-bottom: 11px;
     margin-left: 0;
   }
@@ -1164,7 +1163,7 @@ table {
     transform: translate(50%, -50%);
     bottom: auto;
     border-radius: 50%;
-    background: #24A3FF;
+    background: #f0145a;
     opacity: 1;
   }
   .services-tabs-wrapper .container .wrap-myvertical-tabs .myvertical-tabs li::before {
@@ -2863,5 +2862,3 @@ h4 {
     padding: 0;
   }
 }
-
-/*# sourceMappingURL=main.css.map */
